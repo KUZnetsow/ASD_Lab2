@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Lab2_Kuznetsov\FanoAlgorithm.h(92,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Lab2_Kuznetsov\FanoAlgorithm.h(138,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+     Создается библиотека C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Debug\UnitTest1.lib и объект C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Debug\UnitTest1.dll

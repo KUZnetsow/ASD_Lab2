@@ -1,0 +1,4 @@
+﻿  Lab2_Kuznetsov.cpp
+C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Lab2_Kuznetsov\FanoAlgorithm.h(92,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Lab2_Kuznetsov\FanoAlgorithm.h(138,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  Lab2_Kuznetsov.vcxproj -> C:\Users\Kirill\source\repos\Lab2_Kuznetsov\Debug\Lab2_Kuznetsov.exe
